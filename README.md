@@ -1,1 +1,1 @@
-# foof-festival
+# food-festival
