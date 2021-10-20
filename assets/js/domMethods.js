@@ -30,4 +30,4 @@ function createEl(htmlString, attrs, ...children) {
     return el;
 };
 
-module.exports = creatEl;
+module.exports = createEl;
